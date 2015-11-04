@@ -1,0 +1,23 @@
+name: wtfisthis
+favicon: null
+layout_spectrum: 0.8303242507390678
+typography_spectrum: 0.21443627681583166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9855024155694991
+  lightness: 0.5209950655698776
+  saturation: 0.7514114638324827
+  rhythmicContrast: 0.3788621425628662
+purpose: []
